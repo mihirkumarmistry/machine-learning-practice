@@ -1,2 +1,2 @@
-# ml-kick-start
-Starting my journey of Machine Learning with the a Classifying Iris Species example. 
+# machine-learning-practice
+I am starting my journey in Machine Learning with the example of classifying iris species.
